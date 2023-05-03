@@ -1,14 +1,13 @@
 # Final-Project
-# gen711-811-example
+# Gen711
 
-My name 
-Project
+Megan, Nicole, Kim 
 
-## Project Title  
+## Fecal microbiota transplant (FMT) study. Metabarcoding of Human guts.
 
 New proj title
 
-## Authors  
+## Megan Buff, Nicole Benjamin, Kim Bonanno 
 
 ## Background  
 
@@ -31,7 +30,7 @@ We ran into this issue...
 
 ## Findings
 
-![plot](plots/fst_div.png)
+![plot]
 Figure 1. Provide figure descriptions- indicate how figure was made (programs), with which data. Make sure to cite everything you used. 
 
 ### Note:
